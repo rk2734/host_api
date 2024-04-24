@@ -1,0 +1,38 @@
+{
+  "boys": [
+    { "name": "Aarav", "meaning": "Peaceful" },
+    { "name": "Advait", "meaning": "Unique" },
+    { "name": "Arjun", "meaning": "Bright" },
+    { "name": "Dhruv", "meaning": "Pole star" },
+    { "name": "Ishaan", "meaning": "Sun" },
+    { "name": "Kabir", "meaning": "Great" },
+    { "name": "Mohit", "meaning": "Affectionate" },
+    { "name": "Neel", "meaning": "Blue" },
+    { "name": "Rohan", "meaning": "Ascending" },
+    { "name": "Tanish", "meaning": "Ambition" },
+    { "name": "Vivaan", "meaning": "Full of life" },
+  ],
+
+  "girls": [
+    { "name": "Aaradhya", "meaning": "Worshipped" },
+    { "name": "Aarna", "meaning": "Goddess Lakshmi" },
+    { "name": "Aarohi", "meaning": "Musical notes" },
+    { "name": "Aditi", "meaning": "Mother of the gods" },
+    { "name": "Advika", "meaning": "Unique" },
+    { "name": "Amaira", "meaning": "Eternal" },
+    { "name": "Anaya", "meaning": "Caring" },
+    { "name": "Anvi", "meaning": "Goddess of forests" },
+    { "name": "Avani", "meaning": "Earth" },
+    { "name": "Chahat", "meaning": "Desire" },
+    { "name": "Diya", "meaning": "Lamp" },
+    { "name": "Ira", "meaning": "Earth" },
+    { "name": "Isha", "meaning": "One who protects" },
+    { "name": "Kaira", "meaning": "Peaceful" },
+    { "name": "Kiara", "meaning": "Dark-haired" },
+    { "name": "Myra", "meaning": "Sweet" },
+    { "name": "Navya", "meaning": "Young" },
+    { "name": "Riya", "meaning": "Singer" },
+    { "name": "Saanvi", "meaning": "Goddess Lakshmi" },
+    { "name": "Siya", "meaning": "Goddess Sita" },
+  ]
+}
