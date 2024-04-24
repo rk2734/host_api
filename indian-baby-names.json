@@ -1,5 +1,5 @@
 {
-  "boys": [
+  "males": [
     { "name": "Aarav", "meaning": "Peaceful" },
     { "name": "Advait", "meaning": "Unique" },
     { "name": "Arjun", "meaning": "Bright" },
@@ -13,7 +13,7 @@
     { "name": "Vivaan", "meaning": "Full of life" },
   ],
 
-  "girls": [
+  "females": [
     { "name": "Aaradhya", "meaning": "Worshipped" },
     { "name": "Aarna", "meaning": "Goddess Lakshmi" },
     { "name": "Aarohi", "meaning": "Musical notes" },
