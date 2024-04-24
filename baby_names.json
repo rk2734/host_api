@@ -1,0 +1,14 @@
+{
+  "boys": [
+    { "name": "Liam", "meaning": "Resolute protector" },
+    { "name": "Noah", "meaning": "Rest, comfort" },
+    { "name": "Oliver", "meaning": "Olive tree" }
+    // Add more boy names and meanings as needed
+  ],
+  "girls": [
+    { "name": "Emma", "meaning": "Whole, universal" },
+    { "name": "Olivia", "meaning": "Olive tree" },
+    { "name": "Ava", "meaning": "Bird" }
+    // Add more girl names and meanings as needed
+  ]
+}
